@@ -29,13 +29,13 @@ body {
 	transition: color 0.3s;
 }
 
-@media (max-width: 715px) {
+@media (max-width: 768px) {
 	.nav-item a {
 		padding: 0 25px;
 	}
 }
 
-@media (max-width: 515px) {
+@media (max-width: 576px) {
 	.nav-item a {
 		padding: 0 10px;
 	}
